@@ -1,0 +1,11 @@
+{
+    "name": "Olympic ruleset",
+    "description": "These rules must be respected by all the AL code written within the company.",
+    "rules": [
+        {
+            "id": "AA0218",
+            "action": "Hidden",
+            "justification": "Tooltip property must be filled - do not need."
+        }
+    ]
+}
